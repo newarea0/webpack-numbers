@@ -1,6 +1,6 @@
 {
   "name": "@newarea/webpack-numbers",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "description": "一个将数字转换为单词和反向转换的库",
   "publishConfig": {
     "access": "public"
