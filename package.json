@@ -1,0 +1,33 @@
+{
+  "name": "@newarea/webpack-numbers",
+  "version": "2.0.0",
+  "description": "一个将数字转换为单词和反向转换的库",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "dist/webpack-numbers.js",
+  "module": "src/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newarea0/webpack-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newarea0/webpack-numbers/issues"
+  },
+  "homepage": "https://github.com/newarea0/webpack-numbers#readme"
+}
