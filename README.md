@@ -38,3 +38,11 @@ npm install @newarea/webpack-numbers
     const { numberToWords, wordsToNumber } = window.webpackNumbers;
   </script>
   ```
+
+## 注意事项
+
+请确保同时安装 lodash，因为它是本包的对等依赖。
+
+  ```bash
+  npm install lodash
+  ```

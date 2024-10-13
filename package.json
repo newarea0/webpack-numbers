@@ -14,9 +14,12 @@
   "scripts": {
     "build": "webpack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webpack", "numbers", "word"],
+  "author": "newarea",
   "license": "ISC",
+  "peerDependencies": {
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
     "lodash": "^4.17.21",
     "webpack": "^5.95.0",
